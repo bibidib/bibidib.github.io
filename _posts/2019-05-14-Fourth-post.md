@@ -6,7 +6,7 @@ categories: jekyll update
 
 ```R
 
-metallicaAges <- c(47,47,48,46)
+
 
 ```
 
